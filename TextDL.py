@@ -15,7 +15,7 @@ url = "https://www.gutenberg.org/cache/epub/2701/pg2701.txt" # Example: Moby Dic
 
 # Path to your Directory (including desired file name)
 # Replace with actual value
-    path = Path("/Users/yourname/Desktop/Moby_Dick.txt") #Example Moby_Dick.txt
+path = Path("/Users/yourname/Desktop/Moby_Dick.txt") #Example Moby_Dick.txt
 
 # Download and save
 response = requests.get(url)
